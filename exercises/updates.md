@@ -6,7 +6,7 @@ title: "Exercise: Updates"
 
 ## Class document updates
 
-1. Clone this repo
+1. Clone the repo [bhusa2023](https://github.com/bustakube/bhusa2023.git)
 
     ```shell
     cd ~
@@ -25,34 +25,31 @@ title: "Exercise: Updates"
     cp * ~/exercises/exercises/
     ```
 
-```text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
+   ```txt
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+   ```
