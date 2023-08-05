@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ ! -e ~/bh2023 ] ; then
+if [ ! -e ~/bhusa2023 ] ; then
   cd ~
   git clone https://github.com/bustakube/bhusa2023.git
 else
